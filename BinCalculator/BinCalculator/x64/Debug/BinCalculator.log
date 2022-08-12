@@ -1,0 +1,5 @@
+﻿  binNum.cpp
+K:\Programming\binCalculator\BinCalculator\BinCalculator\binNum.cpp(27,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  BinCalculator.vcxproj -> K:\Programming\binCalculator\BinCalculator\x64\Debug\BinCalculator.exe
